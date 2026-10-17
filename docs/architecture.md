@@ -118,8 +118,4 @@ easy to unit-test.
 | `CarForm.test.jsx`     | validation rules, error messages, submit, edit pre-fill, cancel |
 | `App.test.jsx`         | menu, About page, full add/edit/delete/search flows, 404        |
 
-## 8. AI usage
 
-As required by the project brief, we used an AI assistant to help with the requirements,
-the visual design, the frontend code, the tests and this documentation. We reviewed and
-tested everything it produced and made changes where needed.
