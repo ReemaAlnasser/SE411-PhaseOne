@@ -47,3 +47,9 @@ npm run dev        # open http://localhost:5173
 ## Tech stack
 
 React 18 · Vite 6 · React Router 6 · Vitest + React Testing Library
+
+## Validation Review
+
+The project requirements specify that each car must have a unique plate number. Before finalizing the application, verify that adding a car with an existing plate number is rejected and that a clear error message is displayed.
+
+Related review: Issue #1.
