@@ -120,6 +120,6 @@ easy to unit-test.
 
 ## 8. AI usage
 
-As the brief requires, an AI assistant (Claude Code) was used to draft the requirements,
-the visual design, the frontend code, the tests and this documentation. The team reviewed,
-ran and adjusted all generated output.
+As required by the project brief, we used an AI assistant to help with the requirements,
+the visual design, the frontend code, the tests and this documentation. We reviewed and
+tested everything it produced and made changes where needed.
