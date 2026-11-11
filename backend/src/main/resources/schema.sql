@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS car (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    make VARCHAR(50) NOT NULL,
+    model VARCHAR(50) NOT NULL,
+    year INT NOT NULL,
+    plate_number VARCHAR(20) NOT NULL UNIQUE,
+    color VARCHAR(30) NOT NULL,
+    fuel_type VARCHAR(20) NOT NULL,
+    mileage INT NOT NULL,
+    status VARCHAR(20) NOT NULL
+);
